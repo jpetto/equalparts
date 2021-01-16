@@ -25,10 +25,10 @@ on to the LAMP stack and open source. In 2009, I quit my office job and went out
 on my own, building things in WordPress, Rails, PHP, C#, and of course
 JavaScript.
 
-Later in 2009, in desperate need of physicality, noise, and mess (read: *not*
+Later in 2009, in desperate need of physicality, noise, and mess (read: _not_
 coding), without a lick of experience, I
 [somehow managed](https://en.wikipedia.org/wiki/White_privilege) to land a
-part-time [barista](/images/random/intelli.png) job at
+part-time [barista](/images/random/idunnokenya.jpeg) job at
 [Intelligentsia](http://www.intelligentsiacoffee.com/). Improbably, it was
 learning how to make coffee that led me to the best company I'd ever worked for
- &mdash; [Mozilla](https://www.mozilla.org). Life never happens how you think it will.
+&mdash; [Mozilla](https://www.mozilla.org). Life never happens how you think it will.
